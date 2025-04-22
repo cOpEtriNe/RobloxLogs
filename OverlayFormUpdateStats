@@ -1,0 +1,41 @@
+//BACKUP
+//FOR OVERLAYFORM
+
+        public void UpdateStats(string statsText)  // org (object sender, EventArgs e)
+        {
+            try
+            {
+                Process[] robloxProcesses = Process.GetProcessesByName("RobloxPlayerBeta");
+
+                long totalMemBytes = robloxProcesses.Sum(p => p.WorkingSet64);
+                float totalMemMB = totalMemBytes / (1024f * 1024f);
+
+                float totalCpuPercent = 0;
+                foreach (var proc in robloxProcesses)
+                {
+                    try
+                    {
+                        var cpuCounter = new PerformanceCounter("Process", "% Processor Time", proc.ProcessName, true);
+                        cpuCounter.NextValue();
+                        System.Threading.Thread.Sleep(100);
+                        totalCpuPercent += cpuCounter.NextValue() / Environment.ProcessorCount;
+                        cpuCounter.Dispose();
+                    }
+                    catch { }
+                }
+
+                if (totalMemMB > peakMemory) peakMemory = totalMemMB;
+                if (totalCpuPercent > peakCPU) peakCPU = totalCpuPercent;
+
+                statsLabel.Text =
+                    $"Instances : {robloxProcesses.Length}\n" +
+                    $"RAM Usage : {totalMemMB:F2} MB\n" +
+                    $"CPU Usage : {totalCpuPercent:F2}%\n" +
+                    $"Peak RAM  : {peakMemory:F2} MB\n" +
+                    $"Peak CPU  : {peakCPU:F2}%";
+            }
+            catch
+            {
+                statsLabel.Text = "Error reading Roblox stats.";
+            }
+        }
