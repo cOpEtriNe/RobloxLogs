@@ -1,0 +1,43 @@
+22/04/2025 00:22:24 | Roblox | Hidden + Minimized
+22/04/2025 00:23:20 | Roblox | Hidden + Minimized
+22/04/2025 00:23:21 | Roblox | Hidden + Minimized
+22/04/2025 00:23:23 | Roblox | Shown + Maximized
+22/04/2025 00:23:26 | RobloxPlayerBeta | Terminated
+22/04/2025 00:34:08 | Roblox | Hidden + Minimized
+22/04/2025 00:34:27 | Roblox | Hidden + Minimized
+22/04/2025 00:34:32 | Roblox | Shown + Maximized
+22/04/2025 00:34:41 | RobloxPlayerBeta | Terminated
+22/04/2025 00:41:02 | Roblox | Hidden + Minimized
+22/04/2025 00:41:03 | Roblox | Hidden + Minimized
+22/04/2025 00:41:04 | Roblox | Hidden + Minimized
+22/04/2025 00:41:06 | Roblox Account Manager | Hidden + Minimized
+22/04/2025 00:41:08 | Roblox | Hidden + Minimized
+22/04/2025 00:41:09 | Roblox | Hidden + Minimized
+22/04/2025 00:41:10 | Roblox | Hidden + Minimized
+22/04/2025 00:41:11 | Roblox Account Manager | Shown + Maximized
+22/04/2025 00:41:12 | Roblox | Shown + Maximized
+22/04/2025 00:41:13 | Roblox | Shown + Maximized
+22/04/2025 00:41:14 | Roblox | Shown + Maximized
+22/04/2025 00:41:39 | RobloxPlayerBeta | Terminated
+22/04/2025 00:41:39 | RobloxPlayerBeta | Terminated
+22/04/2025 00:41:39 | RobloxPlayerBeta | Terminated
+22/04/2025 01:10:39 | Roblox | Hidden + Minimized
+22/04/2025 01:10:40 | Roblox Account Manager | Hidden + Minimized
+22/04/2025 01:10:43 | Roblox Account Manager | Hidden + Minimized
+22/04/2025 01:10:44 | Roblox | Hidden + Minimized
+22/04/2025 01:10:55 | Roblox Account Manager | Shown + Maximized
+22/04/2025 01:10:56 | Roblox | Shown + Maximized
+
+// AFTER COUNT PROCESSES UPDATE
+
+22/04/2025 01:18:57 | Roblox | Hidden + Minimized | Affected Processes: 2
+22/04/2025 01:19:40 | Roblox | Hidden + Minimized | Affected Processes: 2
+22/04/2025 01:19:44 | Roblox | Hidden + Minimized | Affected Processes: 2
+22/04/2025 01:19:46 | Roblox | Shown + Maximized | Affected Processes: 0
+22/04/2025 01:19:46 | Roblox | Shown + Maximized | Affected Processes: 1
+22/04/2025 01:20:19 | RobloxPlayerBeta | Terminated | Affected Processes: 0
+22/04/2025 01:27:13 | RobloxPlayerBeta | Terminated | Affected Processes: 0
+22/04/2025 01:27:13 | RobloxPlayerBeta | Terminated | Affected Processes: 1
+22/04/2025 01:27:13 | RobloxPlayerBeta | Terminated | Affected Processes: 2
+22/04/2025 01:27:13 | RobloxPlayerBeta | Terminated | Affected Processes: 3
+22/04/2025 01:27:13 | RobloxPlayerBeta | Terminated | Affected Processes: 4
