@@ -1,0 +1,19 @@
+23/04/2025 14:40:12 | Roblox | Hidden + Minimized | Affected Processes: 1
+23/04/2025 14:40:12 | Roblox | Hidden + Minimized | Affected Processes: 1
+23/04/2025 14:40:14 | Roblox | Shown + Maximized | Affected Processes: 0
+23/04/2025 14:40:15 | Roblox | Hidden + Minimized | Affected Processes: 2
+23/04/2025 14:40:15 | Roblox | Hidden + Minimized | Affected Processes: 1
+23/04/2025 14:40:17 | Roblox | Shown + Maximized | Affected Processes: 1
+23/04/2025 14:40:17 | Roblox | Shown + Maximized | Affected Processes: 1
+23/04/2025 14:41:56 | RobloxPlayerBeta | Minimized to prevent foreground hijack | Affected Processes: 1
+23/04/2025 14:42:16 | RobloxPlayerBeta | Terminated | Affected Processes: 1
+23/04/2025 14:42:16 | RobloxPlayerBeta | Terminated | Affected Processes: 1
+23/04/2025 14:42:19 | RobloxPlayerBeta | All Processes Unexpectedly Closed | Affected Processes: 1
+23/04/2025 14:45:18 | RobloxPlayerBeta | New Instance Detected | Affected Processes: 1
+23/04/2025 16:39:27 | RobloxPlayerBeta | All Processes Unexpectedly Closed | Affected Processes: 1
+23/04/2025 17:01:28 | Roblox | Hidden + Minimized | Affected Processes: 1
+23/04/2025 17:01:28 | Roblox | Hidden + Minimized | Affected Processes: 1
+23/04/2025 17:01:29 | Roblox | Hidden + Minimized | Affected Processes: 2
+23/04/2025 17:01:29 | Roblox | Hidden + Minimized | Affected Processes: 1
+23/04/2025 17:04:19 | Roblox | Shown + Maximized | Affected Processes: 1
+23/04/2025 17:04:19 | Roblox | Shown + Maximized | Affected Processes: 1

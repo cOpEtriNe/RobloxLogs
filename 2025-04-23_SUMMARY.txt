@@ -1,0 +1,28 @@
+=== Session Summary (23/04/2025 14:52:54) ===
+Total Processes Hidden: 2
+Total Processes Shown: 1
+Total Processes Killed: 1
+Peak RAM Usage: 1048 MB
+========================================
+
+=== Session Summary (23/04/2025 14:52:54) ===
+Total Processes Hidden: 2
+Total Processes Shown: 1
+Total Processes Killed: 1
+Peak RAM Usage: 1048 MB
+========================================
+
+=== Session Summary (23/04/2025 17:04:42) ===
+Total Processes Hidden: 2
+Total Processes Shown: 1
+Total Processes Killed: 0
+Peak RAM Usage: 1081 MB
+========================================
+
+=== Session Summary (23/04/2025 17:04:42) ===
+Total Processes Hidden: 2
+Total Processes Shown: 1
+Total Processes Killed: 0
+Peak RAM Usage: 1081 MB
+========================================
+
